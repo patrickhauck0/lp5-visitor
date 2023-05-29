@@ -19,7 +19,7 @@ public class PessoaVisitor implements Visitor {
         return "Instrutor{" +
                 "matricula=" + instrutor.getMatricula() +
                 ", nome='" + instrutor.getNome() + '\'' +
-                ", titulacao='" + instrutor.getTitulacao() + '\'' +
+                ", patente='" + instrutor.getTitulacao() + '\'' +
                 '}';
     }
 

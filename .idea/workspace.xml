@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="216070eb-d453-439f-a1f3-8dd15485646a" name="Changes" comment="visitor" />
+    <list default="true" id="216070eb-d453-439f-a1f3-8dd15485646a" name="Changes" comment="visitor">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/visitor/Instrutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/visitor/Instrutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/visitor/PessoaVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/visitor/PessoaVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/visitor/PessoaVisitorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/visitor/PessoaVisitorTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/Hauck/Desktop/lp5-visitor",
     "onboarding.tips.debug.path": "C:/Users/Hauck/Desktop/lp5-visitor/src/main/java/org/example/Main.java"
   }
 }]]></component>

@@ -3,12 +3,12 @@ package org.example.visitor;
 public class Instrutor implements Pessoa {
     private int matricula;
     private String nome;
-    private String titulacao;
+    private String patente;
 
-    public Instrutor(int matricula, String nome, String titulacao) {
+    public Instrutor(int matricula, String nome, String patente) {
         this.matricula = matricula;
         this.nome = nome;
-        this.titulacao = titulacao;
+        this.patente = patente;
     }
 
     public int getMatricula() {
@@ -20,7 +20,7 @@ public class Instrutor implements Pessoa {
     }
 
     public String getTitulacao() {
-        return titulacao;
+        return patente;
     }
 
     public String aceitar(Visitor visitor) {
